@@ -1,0 +1,58 @@
+.provider-metadata {
+	border: 1px solid #808080;
+	border-radius: 5px;
+	text-align: center;
+	margin: 30px auto;
+	width: 50%;
+}
+
+.name {
+	width: 100%;
+	display: inline-block;
+	background-color: #484848;
+	color: white;
+}
+
+.wifi, .phone, .email, .price {
+	display: block;
+	padding: 5px 0;
+}
+
+.wifi-icon, .phone-icon, .email-icon, .price-icon {
+	padding: 0 5px;
+}
+
+.rating {
+	font-size: 20px;
+}
+
+.rating-block {
+	margin: 10px;
+}
+
+.description {
+	background-color: #e8f4f8;
+	border: 1px solid #808080;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 10px;
+}
+
+.provider-action {
+	color: #4AC981;
+	margin: 10px auto;
+	width: 40%;
+}
+
+.provider-link, .provider-share, .provider-download {
+	border: 1px solid #4AC981;
+	border-radius: 5px;
+	padding: 10px;
+	display: inline-block;
+	margin: 5px; 
+	cursor: pointer;
+}
+
+.link-icon, .share-icon, .download-icon {
+	margin-right: 5px;
+}

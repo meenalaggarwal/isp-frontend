@@ -1,0 +1,27 @@
+.App-header {
+	border-bottom: 2px solid black;
+	height: 20%;
+}
+
+.App-logo {
+	padding: 5px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App {
+	height: 100%;
+	/*background-color: #F5F5F5;*/
+}
+
+.provider-total {
+	display: inline-block;
+	border: 2px solid #009900;
+	background-color: #ebffeb;
+	border-radius: 5px;
+	padding: 5px 10px;
+	float: right;
+	margin: 35px 40px;
+}

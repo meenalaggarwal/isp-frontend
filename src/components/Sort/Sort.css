@@ -1,0 +1,26 @@
+.sort {
+	display: block;
+	margin: 20px auto;
+	width: 40%;
+}
+
+.sort-logo {
+	border: 1px solid #808080;
+	border-radius: 3px;
+	padding: 10px;
+}
+
+.sort-input {
+	display: inline-block;
+	border: 1px solid #808080;
+	border-radius: 3px;
+	margin: 10px;	
+}
+
+.sort-input label {
+	margin: 8px;
+}
+
+.sort-input input {
+	margin-left: 8px;
+}

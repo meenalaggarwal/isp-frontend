@@ -1,0 +1,14 @@
+.provider {
+	margin:5px;
+	border: 1px solid #c4ffc4;
+	border-radius: 2px;
+	background-color: #ebffeb; 
+}
+
+.provider:hover {
+	cursor: pointer;
+}
+
+.provider-price {
+	float: right;
+}
